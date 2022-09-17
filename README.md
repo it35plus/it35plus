@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @it35plus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 1. 展示地址
+
+## 主页 http://www.it35plus.com
+## 知乎 https://www.zhihu.com/people/tili-50-61 
+## 微博 https://weibo.com/it35plus
+## 抖音 
+## 小红书 
+## twitter https://twitter.com/It35plus_
+## facebook https://www.facebook.com/profile.php?id=100085920428712
 
 <!---
 it35plus/it35plus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
